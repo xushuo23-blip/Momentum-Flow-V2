@@ -1,0 +1,10 @@
+torch
+torchvision
+transformers
+diffusers
+accelerate
+safetensors
+sentencepiece
+ml-collections
+wandb
+pillow
